@@ -1,6 +1,6 @@
 # node_api
 
-## run npm install inside test folder..and then type npm start to start code..
+## run npm install inside folder..and then type npm start to start code..
 ## containing apis are -
 ### create/update/delete user
 ### login user
